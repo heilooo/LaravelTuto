@@ -1,0 +1,7 @@
+1. 
+نسخه بندی با معنا (Semantic Versioning
+
+2.
+
+
+
